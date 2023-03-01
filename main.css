@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(100, 84, 109);
+}
+
+form,
+button {
+    color: #fff;
+    text-align: center;
+    margin-top: 16px;
+
+}
+
+.form label {
+    display: block;
+    font-weight: bold;
+    
+}
+
+.form input {
+    padding: 2px;
+    border-radius: 15px;
+    border: none;
+}
+
+.form {
+    margin-bottom: 16px;
+}
+
+button {
+    background-color: green;
+    border: none;
+    border-radius: 15px;
+    width: 100px;
+    cursor: pointer;
+}
